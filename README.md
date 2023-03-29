@@ -1,6 +1,6 @@
 # simple-vite-layer-starter
 
-[simple-vite-layer](https://github.com/markthree/simple-vite-layer)
+[simple-vite-layer](https://github.com/markthree/simple-vite-layer) starter
 
 <br />
 
