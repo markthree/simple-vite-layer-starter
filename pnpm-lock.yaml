@@ -17,8 +17,8 @@ devDependencies:
     specifier: ^4.2.1
     version: 4.2.1
   vite-layers:
-    specifier: ^0.3.2
-    version: 0.3.2(vite@4.2.1)
+    specifier: ^0.3.3
+    version: 0.3.3(vite@4.2.1)
   vue:
     specifier: ^3.2.47
     version: 3.2.47
@@ -1882,8 +1882,8 @@ packages:
       picocolors: 1.0.0
     dev: true
 
-  /vite-layers@0.3.2(vite@4.2.1):
-    resolution: {integrity: sha512-3EqZ99zWgtqSLX/egZWbes0Bhv1YZV3w0UJyFM/79SUtOE7mWAxpnbk6uJg61nNN9jv4j89jtgwKzSLkvIVOXQ==}
+  /vite-layers@0.3.3(vite@4.2.1):
+    resolution: {integrity: sha512-SyfloAbpCOLZ3Qs5peT+u4XMAGivYJuC1AWTCtR7gGOjCJYUdUGiHLnQFpH9JCAzxkCz5wk85KiZpJ1aaRe7xQ==}
     peerDependencies:
       vite: '>=3.0.0'
     dependencies:
