@@ -6,7 +6,8 @@
 
 ## Playground
 
-👉 [StackBlitz](https://stackblitz.com/github.com/markthree/simple-vite-layer)
+👉
+[StackBlitz](https://stackblitz.com/github.com/markthree/simple-vite-layer-starter)
 
 <br />
 
