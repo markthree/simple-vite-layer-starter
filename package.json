@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.1.0",
     "@vue/runtime-core": "^3.2.47",
     "simple-vite-layer": "^0.0.5",
     "typescript": "^5.0.2",
